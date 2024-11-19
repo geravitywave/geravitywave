@@ -15,7 +15,7 @@ LinkedIn
 Portfolio & Media Training
 Email: gerry.diaz@gravitywave.com
 😄 Pronouns:
-He/Him
+He/They
 
 ⚡ Fun fact:
 I helped develop award-nominated tools like the California Fire Map and Bay Area Fog Tracker, blending my love of storytelling with technical expertise to make data accessible and impactful for everyone.
