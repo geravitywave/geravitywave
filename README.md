@@ -8,7 +8,7 @@ Machine learning techniques for predictive analytics
 GIS mapping and API integrations for scalable visualization projects
 💞️ I’m looking to collaborate on:
 Open-source tools that visualize climate risk and adaptation strategies
-Environmental and urban planning projects driven by actionable climate insights
+Environmental, weather, and urban planning projects driven by actionable climate insights
 Bilingual communication and community outreach initiatives in the tech and environmental sectors
 📫 How to reach me:
 LinkedIn
