@@ -1,4 +1,4 @@
-👋 Hi, I’m Gerry (@geravitywave)
+👋 Hi, I’m Gerry.
 👀 I’m interested in:
 Exploring the intersection of climate science, data analytics, and technology to create impactful tools for building climate resilience. My focus is on leveraging advanced data modeling, APIs, and visualization platforms to transform complex datasets into actionable insights.
 
